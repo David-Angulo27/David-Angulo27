@@ -14,7 +14,7 @@
 ========================== -->
 
 <h1 align="center">
-  👋 ¡Hola! Soy David
+   Soy David
 </h1>
 
 <h3 align="center">
