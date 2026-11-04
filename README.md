@@ -85,63 +85,7 @@ mis conocimientos en proyectos reales.
 ## 🛠️ Lenguajes y herramientas
 
 <p align="center">
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    alt="Python"
-    width="45"
-    height="45"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-    alt="Java"
-    width="45"
-    height="45"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-    alt="HTML5"
-    width="45"
-    height="45"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-    alt="CSS3"
-    width="45"
-    height="45"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-    alt="Oracle"
-    width="45"
-    height="45"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
-    alt="R"
-    width="45"
-    height="45"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-    alt="Linux"
-    width="45"
-    height="45"
-  />
-
-  <img
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-    alt="Git"
-    width="45"
-    height="45"
-  />
-
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,github,vscode" />
 </p>
 
 
