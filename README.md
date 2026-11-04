@@ -1,269 +1,244 @@
-<!-- =========================================================
-     👋 PRESENTACIÓN
-========================================================= -->
-
 <h1 align="center">
-  Hola, soy David
-  <img
-    src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-    width="35px"
-    alt="mano saludando"
-  />
+  👋 David Angulo
+  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 </h1>
 
 <p align="center">
-  🎓 Estudiante de Ingeniería de Sistemas · Universidad Central
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=b8bb26&center=true&vCenter=true&width=550&lines=Estudiante+de+Ingeniería+de+Sistemas;Desarrollo+de+Software;Bases+de+Datos+y+Análisis+de+Datos"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
 <p align="center">
-  💻 Desarrollo de software · 🗄️ Bases de datos · 📊 Análisis de datos
+
+  <a href="https://github.com/David-Angulo27">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/davidangu">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/code_igs">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+
+  <a href="https://wa.me/message/CPTX5QHD3MKMP1">
+    <img
+      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+      alt="WhatsApp"
+    />
+  </a>
+
 </p>
 
 <br>
 
-<!-- =========================================================
-     👨‍💻 SOBRE MÍ
-========================================================= -->
+<img
+  align="right"
+  width="250"
+  height="250"
+  src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif"
+  alt="GitHub Octocat animado"
+/>
 
 ## 👨‍💻 Sobre mí
 
-<p>
-  Soy estudiante de quinto semestre de <strong>Ingeniería de Sistemas</strong>,
-  con interés en el desarrollo de software y el análisis de datos.
-  A través de mi formación académica he desarrollado conocimientos en
-  programación, desarrollo web, bases de datos y herramientas para el
-  análisis y gestión de información.
-</p>
+Soy estudiante de quinto semestre de **Ingeniería de Sistemas en la
+Universidad Central**, con interés en el desarrollo de software y el
+análisis de datos.
 
-<p>
-  Trabajo con <strong>Python</strong> y <strong>Java</strong> para desarrollar
-  soluciones y resolver problemas mediante programación. También tengo
-  conocimientos en <strong>HTML</strong> y <strong>CSS</strong> para desarrollo
-  web, <strong>Oracle</strong> para la gestión de bases de datos,
-  <strong>R</strong> para el análisis de información, además de
-  <strong>Linux</strong> y mantenimiento de equipos y sistemas.
-</p>
+A través de mi formación académica he desarrollado conocimientos en
+programación, desarrollo web, bases de datos y herramientas para el
+análisis y gestión de información.
 
-<p>
-  Me interesa utilizar estas herramientas para transformar datos en
-  información útil, identificar patrones, apoyar la toma de decisiones,
-  automatizar procesos y desarrollar soluciones tecnológicas eficientes.
-</p>
+💻 Trabajo con **Python** y **Java** para desarrollar soluciones y
+resolver problemas mediante programación.
 
-<p>
-  🚀 Actualmente estoy interesado en oportunidades de aprendizaje,
-  proyectos, prácticas y posiciones junior relacionadas con desarrollo
-  de software, análisis de datos, bases de datos y tecnología.
-</p>
+🌐 También tengo conocimientos en **HTML** y **CSS** para desarrollo web.
 
-<!-- GIF integrado, sin cuadro -->
+🗄️ Trabajo con **Oracle** para la gestión de bases de datos.
 
-<p align="right">
-  <img
-    src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif"
-    width="120"
-    alt="Octocat animado"
-  />
-</p>
+📊 Tengo conocimientos en **R** para el análisis de información.
 
+🐧 También trabajo con **Linux** y cuento con conocimientos en
+mantenimiento de equipos y sistemas.
 
-<!-- =========================================================
-     💻 ÁREAS DE INTERÉS
-========================================================= -->
+🚀 Me interesa seguir fortaleciendo mis capacidades técnicas y aplicar
+mis conocimientos en proyectos reales.
 
-## 💻 Áreas de interés
+<br clear="right">
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/💻%20Software-2563EB?style=for-the-badge&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🗄️%20Bases%20de%20datos-7C3AED?style=for-the-badge&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/📊%20Datos-0EA5E9?style=for-the-badge&logoColor=white"/>
-
-</p>
-
-
-<!-- =========================================================
-     🛠️ LENGUAJES Y HERRAMIENTAS
-========================================================= -->
 
 ## 🛠️ Lenguajes y herramientas
 
-### 💻 Lenguajes
+<p align="center">
 
-<p align="left">
   <img
-    src="https://skillicons.dev/icons?i=python,java,r"
-    height="48"
-    alt="Python Java R"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    alt="Python"
+    width="45"
+    height="45"
   />
+
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+    alt="Java"
+    width="45"
+    height="45"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    alt="HTML5"
+    width="45"
+    height="45"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+    alt="CSS3"
+    width="45"
+    height="45"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+    alt="Oracle"
+    width="45"
+    height="45"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
+    alt="R"
+    width="45"
+    height="45"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+    alt="Linux"
+    width="45"
+    height="45"
+  />
+
+  <img
+    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    alt="Git"
+    width="45"
+    height="45"
+  />
+
 </p>
 
-### 🌐 Desarrollo web
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=html,css"
-    height="48"
-    alt="HTML CSS"
-  />
-</p>
+## 📊 Lo que me interesa
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 Desarrollo de software
+
+Me interesa desarrollar soluciones mediante programación, aplicando
+Python y Java para resolver problemas y construir proyectos.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Análisis de datos
+
+Me interesa trabajar con datos para identificar patrones, obtener
+información útil y apoyar la toma de decisiones.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🗄️ Bases de datos
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=oracle"
-    height="48"
-    alt="Oracle"
-  />
-</p>
+Tengo interés en la gestión de información y el trabajo con bases de
+datos utilizando Oracle.
 
-### 🐧 Sistemas y herramientas
+</td>
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=linux,git,github,vscode"
-    height="48"
-    alt="Linux Git GitHub VS Code"
-  />
-</p>
+<td width="50%" valign="top">
 
+### ⚙️ Automatización
 
-<!-- =========================================================
-     🚀 PROYECTOS
-========================================================= -->
+Me interesa utilizar la tecnología para automatizar procesos y
+desarrollar soluciones más eficientes.
 
-## 🚀 Proyectos
+</td>
 
-### 🤖 Simulador de Brazo Robótico
-
-Proyecto académico enfocado en la simulación de un brazo robótico y
-la aplicación de conceptos de física, especialmente **trabajo,
-potencia mecánica, fuerza y desplazamiento**.
-
-El proyecto combina programación, simulación y conceptos físicos
-para representar el comportamiento de un sistema robótico.
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif"
-    width="130"
-    alt="Hollow Knight animado"
-  />
-</p>
+</tr>
+</table>
 
 
-### 💻 Próximamente
+## 🚀 Actualmente
 
-Aquí iré incorporando nuevos proyectos de programación, desarrollo
-de software, bases de datos y análisis de datos a medida que avance
-en mi formación.
+📚 **Fortaleciendo mis conocimientos** en desarrollo de software,
+bases de datos y análisis de datos.
 
+🔎 **Buscando oportunidades** de aprendizaje, proyectos, prácticas y
+posiciones junior relacionadas con tecnología.
 
-<!-- =========================================================
-     📚 EN QUÉ ESTOY TRABAJANDO
-========================================================= -->
+🤝 **Abierto a conectar** con profesionales y empresas del sector.
 
-## 📚 Actualmente aprendiendo
-
-🔹 Desarrollo de software  
-🔹 Programación con Python y Java  
-🔹 Bases de datos y SQL  
-🔹 Análisis y visualización de datos  
-🔹 Desarrollo web  
-🔹 Automatización de procesos  
-🔹 Linux y herramientas de desarrollo  
+🌎 Interesado en oportunidades **presenciales, híbridas o remotas**.
 
 
-<!-- =========================================================
-     📊 GITHUB
-========================================================= -->
-
-## 📊 GitHub
+## 📫 Conecta conmigo
 
 <p align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=David-Angulo27&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-  height="165"
-  alt="Estadísticas de GitHub"
-/>
+  <a href="https://github.com/David-Angulo27">
+    <img
+      src="https://img.shields.io/badge/GitHub-David--Angulo27-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Angulo27&layout=compact&theme=transparent&hide_border=true"
-  height="165"
-  alt="Lenguajes más utilizados"
-/>
+  <a href="https://www.linkedin.com/in/davidangu">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-David%20Angulo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
 
-</p>
+  <a href="https://www.instagram.com/code_igs">
+    <img
+      src="https://img.shields.io/badge/Instagram-@code__igs-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+  </a>
 
+  <a href="mailto:ingdavidangulo27@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-ingdavidangulo27-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
 
-<!-- =========================================================
-     📱 CONECTA CONMIGO
-========================================================= -->
+  <a href="https://wa.me/message/CPTX5QHD3MKMP1">
+    <img
+      src="https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+    />
+  </a>
 
-## 📱 Conecta conmigo
-
-<p align="center">
-
-<a href="https://github.com/David-Angulo27">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/davidangu">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="https://www.instagram.com/code_igs">
-  <img
-    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    alt="Instagram"
-  />
-</a>
-
-<a href="https://wa.me/message/CPTX5QHD3MKMP1">
-  <img
-    src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-    alt="WhatsApp"
-  />
-</a>
-
-<a href="mailto:ingdavidangulo27@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-</p>
-
-
-<!-- =========================================================
-     🔥 CIERRE
-========================================================= -->
-
-<p align="center">
-
-  <img
-    src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif"
-    width="75"
-    alt="Hoguera animada"
-  />
-
-</p>
-
-<p align="center">
-  <strong>🚀 Siempre aprendiendo · Siempre creando</strong>
-</p>
-
-<p align="center">
-  Gracias por visitar mi perfil 👋
 </p>
