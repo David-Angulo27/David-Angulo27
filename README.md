@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=David-Angulo&fontSize=55&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=#1e3a8a,100:2563eb&height=220&section=header&text=David%20Alejandro%20Angulo%20Sanchez&fontSize=35&fontColor=ffffff&animation=fadeIn"
     width="100%"
   />
 </p>
@@ -168,7 +168,7 @@ Aquí aparecerán nuevos proyectos de programación y desarrollo que iré realiz
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=#0f172a,100:0f172a&height=120&section=footer"
     width="100%"
   />
 </p>
