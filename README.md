@@ -8,10 +8,6 @@
     width="100%"
   />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,github,vscode" />
-</p>
-
 
 <!-- =========================
      PRESENTACIÓN
