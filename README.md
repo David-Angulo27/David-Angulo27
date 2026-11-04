@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=David Angulo&fontSize=55&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=David-Angulo&fontSize=55&fontColor=ffffff&animation=fadeIn"
     width="100%"
   />
 </p>
