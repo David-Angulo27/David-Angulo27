@@ -8,6 +8,9 @@
     width="100%"
   />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,github,vscode" />
+</p>
 
 
 <!-- =========================
@@ -168,7 +171,7 @@ Aquí aparecerán nuevos proyectos de programación y desarrollo que iré realiz
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=#0f172a,100:0f172a&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,100:0f172a&height=140&section=footer&animation=fadeIn"
     width="100%"
   />
 </p>
