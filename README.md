@@ -3,625 +3,502 @@
 ========================================================== -->
 
 
-<!-- =========================================================
-     PRESENTACIÓN
-========================================================== -->
+<!-- =========================
+     HEADER
+========================== -->
 
 <h1 align="center">
   Hi 👋, I'm David
   <img
-    height="40"
     src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"
+    width="32"
+    height="32"
     alt="Minecraft Parrot"
   />
 </h1>
 
-<h3 align="center">
-  🎓 Estudiante de Ingeniería de Sistemas · Universidad Central
-</h3>
-
 <p align="center">
-  💻 Desarrollo de Software
-  &nbsp; • &nbsp;
-  📊 Análisis de Datos
-  &nbsp; • &nbsp;
-  🗄️ Bases de Datos
+  <b>Estudiante de Ingeniería de Sistemas · Universidad Central</b>
 </p>
 
 <p align="center">
-  🚀 Aprendiendo, desarrollando y convirtiendo ideas en soluciones tecnológicas.
+  Desarrollo de Software · Análisis de Datos · Bases de Datos
 </p>
 
 
-<br>
-
-
-<!-- =========================================================
-     ANIMACIÓN OCTOCAT
-========================================================== -->
-
-<p align="center">
-
-  <img
-    src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif"
-    width="170"
-    alt="Octocat animado"
-  />
-
-</p>
-
-
-<!-- =========================================================
+<!-- =========================
      SEPARADOR ANIMADO
-========================================================== -->
+========================== -->
 
 <p align="center">
-
-<img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-  width="100%"
-  alt="Separador animado"
-/>
-
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    width="90%"
+    alt="separator"
+  />
 </p>
 
 
-<!-- =========================================================
-     SOBRE MÍ
-========================================================== -->
+<!-- =========================
+     INTRO
+========================== -->
 
-<h2 align="center">👨‍💻 Sobre mí</h2>
+<table>
+<tr>
 
-<p align="center">
-  <samp>
+<td width="65%" valign="middle">
 
+<h2>Sobre mí</h2>
+
+<p>
 Soy estudiante de <b>quinto semestre de Ingeniería de Sistemas</b>
-en la <b>Universidad Central</b>, con interés en el desarrollo de
-software, análisis de datos y bases de datos.
+en la <b>Universidad Central</b>, con interés en el desarrollo
+de software, análisis de datos y bases de datos.
+</p>
 
-<br><br>
-
-A través de mi formación académica he desarrollado conocimientos
-en programación, desarrollo web, gestión de bases de datos y
+<p>
+Durante mi formación académica he desarrollado conocimientos en
+programación, desarrollo web, gestión de bases de datos y
 herramientas para el análisis de información.
+</p>
 
-<br><br>
-
+<p>
 Me interesa utilizar la tecnología para transformar datos en
 información útil, identificar patrones, automatizar procesos
 y desarrollar soluciones eficientes.
-
-  </samp>
 </p>
 
+</td>
 
-<br>
-
-
-<!-- =========================================================
-     ANIMACIÓN HOLLOW KNIGHT
-========================================================== -->
-
-<p align="center">
+<td width="35%" align="center" valign="middle">
 
 <img
-  src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif"
-  width="200"
-  alt="Hollow Knight animado"
+  src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif"
+  width="150"
+  alt="Animated GitHub Octocat"
 />
 
-</p>
+</td>
+
+</tr>
+</table>
 
 
-<!-- =========================================================
+<!-- =========================
      SEPARADOR
-========================================================== -->
+========================== -->
 
 <p align="center">
-
-<img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-  width="100%"
-  alt="Separador animado"
-/>
-
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    width="90%"
+    alt="separator"
+  />
 </p>
 
 
-<!-- =========================================================
-     EN QUÉ ESTOY ENFOCADO
-========================================================== -->
+<!-- =========================
+     ENFOQUE
+========================== -->
 
-<h2 align="center">🎯 En qué estoy enfocado</h2>
+<h2 align="center">En qué estoy enfocado</h2>
 
 <table align="center">
-
 <tr>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-<h3>💻 Software</h3>
+<h3>Software</h3>
 
 <p>
-Desarrollo de soluciones utilizando
-<b>Python</b> y <b>Java</b>.
+Desarrollo de soluciones mediante programación,
+principalmente con Python y Java.
 </p>
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-<h3>📊 Datos</h3>
+<h3>Datos</h3>
 
 <p>
-Análisis, gestión e interpretación
-de información.
+Análisis, gestión e interpretación de información
+para encontrar patrones y generar conocimiento útil.
 </p>
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-<h3>🗄️ Bases de Datos</h3>
+<h3>Bases de datos</h3>
 
 <p>
-Gestión y organización de información
-utilizando bases de datos.
+Diseño, gestión y organización de información
+utilizando tecnologías de bases de datos.
 </p>
 
 </td>
 
 </tr>
-
 </table>
 
 
-<br>
-
-
-<!-- =========================================================
-     BONFIRE INTERACTIVO
-========================================================== -->
-
-<details align="center">
-
-<summary>
-  <b>🔥 <samp>¿Qué estoy aprendiendo actualmente?</samp></b>
-</summary>
-
-<br>
+<!-- =========================
+     ANIMACIÓN HOLLOW KNIGHT
+========================== -->
 
 <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif"
+    width="110"
+    alt="Hollow Knight"
+  />
+</p>
+
+
+<!-- =========================
+     SEPARADOR
+========================== -->
+
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    width="90%"
+    alt="separator"
+  />
+</p>
+
+
+<!-- =========================
+     APRENDIENDO
+========================== -->
+
+<table>
+<tr>
+
+<td width="70%" valign="middle">
+
+<h2>Actualmente</h2>
+
+<p>
+Estoy fortaleciendo mis conocimientos en programación,
+desarrollo de software, análisis de datos y bases de datos.
+</p>
+
+<p>
+También continúo desarrollando proyectos académicos y personales
+para aplicar los conocimientos adquiridos y seguir mejorando
+mis habilidades técnicas.
+</p>
+
+<p>
+Me interesa encontrar oportunidades de aprendizaje, prácticas
+y posiciones junior relacionadas con desarrollo de software,
+análisis de datos, bases de datos y tecnología.
+</p>
+
+</td>
+
+<td width="30%" align="center" valign="middle">
 
 <img
   src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif"
-  width="200"
-  alt="Bonfire animado"
+  width="115"
+  alt="Bonfire"
 />
 
-</p>
+</td>
 
-<p align="center">
-  <samp>
-
-📚 Ingeniería de Sistemas  
-💻 Programación con Python y Java  
-📊 Análisis de datos  
-🗄️ Bases de datos  
-🌐 Desarrollo web  
-🐧 Linux  
-⚙️ Automatización  
-🚀 Desarrollo de proyectos
-
-  </samp>
-</p>
-
-</details>
+</tr>
+</table>
 
 
-<br>
+<!-- =========================
+     TECHNOLOGIES
+========================== -->
 
-
-<!-- =========================================================
-     SEPARADOR
-========================================================== -->
+<h2 align="center">Languages & Tools</h2>
 
 <p align="center">
 
 <img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-  width="100%"
-  alt="Separador animado"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+  width="42"
+  height="42"
+  alt="Python"
+/>
+
+&nbsp;&nbsp;
+
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+  width="42"
+  height="42"
+  alt="Java"
+/>
+
+&nbsp;&nbsp;
+
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+  width="42"
+  height="42"
+  alt="HTML5"
+/>
+
+&nbsp;&nbsp;
+
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+  width="42"
+  height="42"
+  alt="CSS3"
 />
 
 </p>
-
-
-<!-- =========================================================
-     TECNOLOGÍAS
-========================================================== -->
-
-<h2 align="center">🛠️ Languages & Tools</h2>
-
-<p align="center">
-
-<a href="https://www.python.org/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    width="50"
-    height="50"
-    alt="Python"
-  />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.java.com/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-    width="50"
-    height="50"
-    alt="Java"
-  />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-    width="50"
-    height="50"
-    alt="HTML5"
-  />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-    width="50"
-    height="50"
-    alt="CSS3"
-  />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.r-project.org/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
-    width="50"
-    height="50"
-    alt="R"
-  />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linux.org/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-    width="50"
-    height="50"
-    alt="Linux"
-  />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://git-scm.com/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-    width="50"
-    height="50"
-    alt="Git"
-  />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-    width="50"
-    height="50"
-    alt="GitHub"
-  />
-</a>
-
-</p>
-
-
-<br>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-</p>
-
-
-<!-- =========================================================
-     SEPARADOR
-========================================================== -->
 
 <p align="center">
 
 <img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-  width="100%"
-  alt="Separador animado"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
+  width="42"
+  height="42"
+  alt="R"
+/>
+
+&nbsp;&nbsp;
+
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+  width="42"
+  height="42"
+  alt="Oracle"
+/>
+
+&nbsp;&nbsp;
+
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+  width="42"
+  height="42"
+  alt="Linux"
+/>
+
+&nbsp;&nbsp;
+
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+  width="42"
+  height="42"
+  alt="Git"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+  width="42"
+  height="42"
+  alt="GitHub"
+/>
+
+&nbsp;&nbsp;
+
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+  width="42"
+  height="42"
+  alt="Visual Studio Code"
+/>
+
+&nbsp;&nbsp;
+
+<img
+  src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"
+  width="42"
+  height="42"
+  alt="Microsoft Excel"
 />
 
 </p>
 
 
-<!-- =========================================================
-     PROYECTOS
-========================================================== -->
+<!-- =========================
+     SEPARADOR
+========================== -->
 
-<h2 align="center">🚀 Proyectos</h2>
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    width="90%"
+    alt="separator"
+  />
+</p>
 
-<table align="center">
 
+<!-- =========================
+     PROJECTS
+========================== -->
+
+<table>
 <tr>
 
-<td width="50%" align="center">
+<td width="70%" valign="middle">
 
-<h3>🤖 Simulador de Brazo Robótico</h3>
+<h2>Proyectos</h2>
+
+<h3>Simulador de Brazo Robótico</h3>
 
 <p>
-Proyecto académico relacionado con la simulación de un brazo robótico
+Proyecto académico enfocado en la simulación de un brazo robótico
 y la aplicación de conceptos de física, trabajo mecánico y potencia.
 </p>
 
 <p>
-
-<a href="https://github.com/David-Angulo27">
-
-<img
-  src="https://img.shields.io/badge/Ver%20proyecto-1e3a8a?style=for-the-badge&logo=github&logoColor=white"
-/>
-
-</a>
-
+El proyecto integra programación, simulación y conceptos físicos
+para representar el funcionamiento de un sistema robótico.
 </p>
 
 </td>
 
-
-<td width="50%" align="center">
-
-<h3>💻 Próximamente</h3>
-
-<p>
-Nuevos proyectos relacionados con programación,
-análisis de datos y tecnología.
-</p>
+<td width="30%" align="center" valign="middle">
 
 <img
-  src="https://img.shields.io/badge/En%20desarrollo-475569?style=for-the-badge&logo=github&logoColor=white"
+  src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif"
+  width="120"
+  alt="Robot"
 />
 
 </td>
 
 </tr>
-
 </table>
 
 
-<br>
+<!-- =========================
+     SECOND PROJECT
+========================== -->
+
+<table>
+<tr>
+
+<td width="30%" align="center" valign="middle">
+
+<img
+  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+  width="110"
+  alt="Coding"
+/>
+
+</td>
+
+<td width="70%" valign="middle">
+
+<h3>Próximamente</h3>
+
+<p>
+Continuaré agregando proyectos relacionados con programación,
+análisis de datos, bases de datos y desarrollo de soluciones
+tecnológicas.
+</p>
+
+</td>
+
+</tr>
+</table>
 
 
-<!-- =========================================================
+<!-- =========================
      SEPARADOR
-========================================================== -->
+========================== -->
+
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    width="90%"
+    alt="separator"
+  />
+</p>
+
+
+<!-- =========================
+     GITHUB ACTIVITY
+========================== -->
+
+<h2 align="center">GitHub</h2>
 
 <p align="center">
 
 <img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-  width="100%"
-  alt="Separador animado"
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=David-Angulo27&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+  alt="GitHub statistics"
+/>
+
+&nbsp;&nbsp;
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Angulo27&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
+  alt="Top languages"
 />
 
 </p>
 
 
-<!-- =========================================================
-     GITHUB STATS
-========================================================== -->
+<!-- =========================
+     CONTACT
+========================== -->
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=David-Angulo27&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-  alt="GitHub Stats"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Angulo27&theme=github_dark&layout=compact&langs_count=8&hide_border=true"
-  alt="Top Languages"
-/>
-
-</p>
-
-
-<br>
-
-
-<!-- =========================================================
-     STREAK
-========================================================== -->
+<h2 align="center">Conecta conmigo</h2>
 
 <p align="center">
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=David-Angulo27&theme=github-dark-blue&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</p>
-
-
-<!-- =========================================================
-     TROPHIES
-========================================================== -->
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=David-Angulo27&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"
-  width="90%"
-  alt="GitHub Trophies"
-/>
-
-</p>
-
-
-<!-- =========================================================
-     SEPARADOR
-========================================================== -->
-
-<p align="center">
-
-<img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-  width="100%"
-  alt="Separador animado"
-/>
-
-</p>
-
-
-<!-- =========================================================
-     SNAKE
-========================================================== -->
-
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
-
-<p align="center">
-
-<img
-  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-/>
-
-</p>
-
-
-<br>
-
-
-<!-- =========================================================
-     OTRA ANIMACIÓN
-========================================================== -->
-
-<p align="center">
-
-<img
-  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-  width="45"
-  alt="Waving hand"
-/>
-
-<br>
-
-<samp>
-Thanks for stopping by!
-</samp>
-
-</p>
-
-
-<!-- =========================================================
-     CONTACTO / REDES
-========================================================== -->
-
-<h2 align="center">📫 Conecta conmigo</h2>
-
-<p align="center">
-
-<a href="https://github.com/David-Angulo27" target="_blank">
-
-<img
-  src="https://img.shields.io/badge/GitHub-David--Angulo27-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="GitHub"
-/>
-
+<a href="https://github.com/David-Angulo27">
+  <img
+    src="https://img.shields.io/badge/GitHub-David--Angulo27-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 &nbsp;
 
-<a href="https://www.linkedin.com/in/davidangu" target="_blank">
-
-<img
-  src="https://img.shields.io/badge/LinkedIn-David%20Angulo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn"
-/>
-
+<a href="https://www.linkedin.com/in/davidangu">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-David%20Angulo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 &nbsp;
 
-<a href="https://www.instagram.com/code_igs" target="_blank">
-
-<img
-  src="https://img.shields.io/badge/Instagram-code__igs-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-  alt="Instagram"
-/>
-
+<a href="https://www.instagram.com/code_igs">
+  <img
+    src="https://img.shields.io/badge/Instagram-code__igs-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
 </a>
 
 </p>
 
-
 <p align="center">
 
-<a href="https://wa.me/message/CPTX5QHD3MKMP1" target="_blank">
-
-<img
-  src="https://img.shields.io/badge/WhatsApp-Contactarme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-  alt="WhatsApp"
-/>
-
+<a href="https://wa.me/message/CPTX5QHD3MKMP1">
+  <img
+    src="https://img.shields.io/badge/WhatsApp-Contactarme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+    alt="WhatsApp"
+  />
 </a>
 
 &nbsp;
 
 <a href="mailto:ingdavidangulo27@gmail.com">
-
-<img
-  src="https://img.shields.io/badge/Gmail-ingdavidangulo27%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-  alt="Email"
-/>
-
+  <img
+    src="https://img.shields.io/badge/Email-ingdavidangulo27%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 &nbsp;
@@ -634,67 +511,46 @@ Thanks for stopping by!
 </p>
 
 
-<!-- =========================================================
-     SEPARADOR
-========================================================== -->
-
-<p align="center">
-
-<img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-  width="100%"
-  alt="Separador animado"
-/>
-
-</p>
-
-
-<!-- =========================================================
-     FRASE FINAL
-========================================================== -->
-
-<h3 align="center">
-
-🚀 Siempre aprendiendo. Siempre creando.
-
-</h3>
-
-<p align="center">
-
-<samp>
-Code • Learn • Build • Repeat
-</samp>
-
-</p>
-
+<!-- =========================
+     FINAL
+========================== -->
 
 <br>
 
+<table align="center">
+<tr>
 
-<!-- =========================================================
-     VISITAS
-========================================================== -->
-
-<p align="center">
+<td align="center" valign="middle">
 
 <img
-  src="https://komarev.com/ghpvc/?username=David-Angulo27&label=Profile%20Views&color=1e3a8a&style=for-the-badge"
-  alt="Profile Views"
+  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+  width="30"
+  alt="Waving hand"
 />
 
-</p>
+</td>
 
+<td align="center" valign="middle">
 
-<!-- =========================================================
-     FINAL ANIMADO
-========================================================== -->
+<samp>
+Always learning. Always building.
+</samp>
 
-<p align="center">
+</td>
+
+<td align="center" valign="middle">
 
 <img
-  src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif"
-  width="120"
-  alt="Hollow Knight"
+  src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"
+  width="30"
+  alt="Minecraft Parrot"
 />
 
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <sub>Thanks for visiting my profile.</sub>
 </p>
