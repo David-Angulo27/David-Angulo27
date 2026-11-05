@@ -1,6 +1,6 @@
 <h1 align="center">
   👋 David Angulo
-  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
+  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" alt="Parrot dancing">
 </h1>
 
 <p align="center">
