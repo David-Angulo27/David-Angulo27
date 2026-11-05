@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 
-  <a href="https://discord.com/">
+  <a href="https://discord.com/users/734541864752906333">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 
@@ -207,7 +207,7 @@ I'm interested in using programming and technology to automate processes and dev
     <img src="https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 
-  <a href="https://discord.com/">
+  <a href="https://discord.com/users/734541864752906333">
     <img src="https://img.shields.io/badge/Discord-david_.an-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 
